@@ -5,7 +5,7 @@ This code does the following :
    #by calling The function four times in parallel in the background for each type 
 - Do a benchmark to show the difference between single thread and multi thread.
    # --> time bash code.sh
-   # --> time bash parallel_code.sh
+   # --> time bash paralled_code.sh
    # The difference between them has been proved & shown in the screenshots
 
 @AH
