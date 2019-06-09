@@ -68,7 +68,4 @@ FilesMover txt  &
 #Wait until finishing all of them
 wait
 exit
-<<<<<<< HEAD
 
-=======
->>>>>>> 6c195b6c3239fd025d9ba54478799236a98526ce
