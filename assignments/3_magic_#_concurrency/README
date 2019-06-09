@@ -1,0 +1,11 @@
+This code does the following :
+- Categorize the files according to their types.
+   #copy each of them to different folders : jpegFolder, pngFolder, txtFolder , mp3Folder
+- Use concurrency methodology to do this job more faster.
+   #by calling The function four times in parallel in the background for each type 
+- Do a benchmark to show the difference between single thread and multi thread.
+   # --> time bash code.sh
+   # --> time bash parallel_code.sh
+   # The difference between them has been proved & shown in the screenshots
+
+@AH

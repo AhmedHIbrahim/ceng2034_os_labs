@@ -38,7 +38,7 @@ for file in *; do
         elif [ "$x" == "$jpeg_mc" ]; then
 	   cp "$file" ./jpegFolder
            echo "it is jpeg file, and it is copied to jpegFolder"
-	   echo "${jpg_mc}"
+	   echo "${jpeg_mc}"
 	#Or is the file asci .txt typed
         elif [ "$x" == "$asci_tx_mc" ]; then
 	   cp "$file" ./txtFolder
